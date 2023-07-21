@@ -1,0 +1,11 @@
+body{
+background-color: rgb(255, 204, 102);
+font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-light .navbar-brand,.navbar-light .navbar-nav .nav-link {
+    color:rgb(255, 153, 0) ;
+}
+.bg-light{
+background-color:grey!important;
+}
